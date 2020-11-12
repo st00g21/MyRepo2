@@ -1,50 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T10:45:03.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="49KGRcq_gntDRGTabhYD" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T11:00:44.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="e26q0v1zggjW0Mtb_No-" version="13.9.7" type="github">
   <diagram id="dlPyGVZWOMXmCcsLipJ7" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0HeMoX-j_anCmpWmwLnt-1" value="1C: Университет ПРОФ" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="910" y="750" width="290" height="104" as="geometry">
-            <mxRectangle x="840" y="550" width="320" height="26" as="alternateBounds" />
+          <mxGeometry x="920" y="750" width="290" height="190" as="geometry">
+            <mxRectangle x="920" y="750" width="320" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HeMoX-j_anCmpWmwLnt-2" value="Двухсторонний обмен" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-1" vertex="1" collapsed="1">
-          <mxGeometry y="26" width="290" height="26" as="geometry">
-            <mxRectangle y="78" width="290" height="70" as="alternateBounds" />
+        <mxCell id="0HeMoX-j_anCmpWmwLnt-2" value="1С:ДГУ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#cdeb8b;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#36393d;" parent="0HeMoX-j_anCmpWmwLnt-1" vertex="1">
+          <mxGeometry y="26" width="290" height="70" as="geometry">
+            <mxRectangle y="26" width="290" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HeMoX-j_anCmpWmwLnt-6" value="Только передает" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-1" vertex="1" collapsed="1">
-          <mxGeometry y="52" width="290" height="26" as="geometry">
-            <mxRectangle y="52" width="290" height="68" as="alternateBounds" />
+        <mxCell id="0HeMoX-j_anCmpWmwLnt-6" value="1С:АСР" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffcccc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#36393d;" parent="0HeMoX-j_anCmpWmwLnt-1" vertex="1">
+          <mxGeometry y="96" width="290" height="68" as="geometry">
+            <mxRectangle y="96" width="290" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HeMoX-j_anCmpWmwLnt-4" value="Только принимает" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-1" vertex="1" collapsed="1">
-          <mxGeometry y="78" width="290" height="26" as="geometry">
+          <mxGeometry y="164" width="290" height="26" as="geometry">
             <mxRectangle y="26" width="290" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HeMoX-j_anCmpWmwLnt-16" value="1С: ДГУ" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="530" y="606" width="290" height="104" as="geometry">
-            <mxRectangle x="537" y="570" width="320" height="26" as="alternateBounds" />
+        <mxCell id="0HeMoX-j_anCmpWmwLnt-16" value="1С: ДГУ" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="530" y="606" width="290" height="208" as="geometry">
+            <mxRectangle x="530" y="606" width="320" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HeMoX-j_anCmpWmwLnt-17" value="Двухсторонний обмен" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-16" vertex="1" collapsed="1">
-          <mxGeometry y="26" width="290" height="26" as="geometry">
-            <mxRectangle y="78" width="290" height="130" as="alternateBounds" />
+        <mxCell id="0HeMoX-j_anCmpWmwLnt-17" value="Двухсторонний обмен" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-16" vertex="1">
+          <mxGeometry y="26" width="290" height="130" as="geometry">
+            <mxRectangle y="26" width="290" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HeMoX-j_anCmpWmwLnt-18" value="Приказы (подписание согласовани)&#xa;Графики&#xa;Подписание ЭЦП (Ректор) пакета документа по Образовательной программе &#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="0HeMoX-j_anCmpWmwLnt-17" vertex="1">
           <mxGeometry y="26" width="290" height="104" as="geometry" />
         </mxCell>
         <mxCell id="0HeMoX-j_anCmpWmwLnt-21" value="Только передает" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-16" vertex="1" collapsed="1">
-          <mxGeometry y="52" width="290" height="26" as="geometry">
-            <mxRectangle y="26" width="290" height="100" as="alternateBounds" />
+          <mxGeometry y="156" width="290" height="26" as="geometry">
+            <mxRectangle y="52" width="290" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HeMoX-j_anCmpWmwLnt-19" value="Только принимает" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-16" vertex="1" collapsed="1">
-          <mxGeometry y="78" width="290" height="26" as="geometry">
-            <mxRectangle y="52" width="290" height="100" as="alternateBounds" />
+          <mxGeometry y="182" width="290" height="26" as="geometry">
+            <mxRectangle y="78" width="290" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HeMoX-j_anCmpWmwLnt-20" value="Выставление задач для МФЦ(для создания приказов)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="0HeMoX-j_anCmpWmwLnt-19" vertex="1">
@@ -75,30 +75,30 @@
         <mxCell id="0HeMoX-j_anCmpWmwLnt-29" value="Договор оплаты по абитуриенту&#xa;Документ Оплата по договору" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0HeMoX-j_anCmpWmwLnt-28" vertex="1">
           <mxGeometry y="26" width="320" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="0HeMoX-j_anCmpWmwLnt-30" value="1С: АСР" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="530" y="750" width="290" height="104" as="geometry">
-            <mxRectangle x="530" y="750" width="320" height="26" as="alternateBounds" />
+        <mxCell id="0HeMoX-j_anCmpWmwLnt-30" value="1С: АСР" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="530" y="820" width="290" height="26" as="geometry">
+            <mxRectangle x="530" y="820" width="290" height="326" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HeMoX-j_anCmpWmwLnt-31" value="Двухсторонний обмен" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-30" vertex="1" collapsed="1">
-          <mxGeometry y="26" width="290" height="26" as="geometry">
-            <mxRectangle y="26" width="290" height="100" as="alternateBounds" />
+        <mxCell id="0HeMoX-j_anCmpWmwLnt-31" value="Двухсторонний обмен" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-30" vertex="1">
+          <mxGeometry y="26" width="290" height="100" as="geometry">
+            <mxRectangle y="26" width="290" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HeMoX-j_anCmpWmwLnt-32" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0HeMoX-j_anCmpWmwLnt-31" vertex="1">
           <mxGeometry y="26" width="290" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="0HeMoX-j_anCmpWmwLnt-35" value="Только передает" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-30" vertex="1" collapsed="1">
-          <mxGeometry y="52" width="290" height="26" as="geometry">
-            <mxRectangle y="26" width="290" height="100" as="alternateBounds" />
+        <mxCell id="0HeMoX-j_anCmpWmwLnt-35" value="Только передает" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-30" vertex="1">
+          <mxGeometry y="126" width="290" height="100" as="geometry">
+            <mxRectangle y="126" width="290" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HeMoX-j_anCmpWmwLnt-36" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0HeMoX-j_anCmpWmwLnt-35" vertex="1">
+        <mxCell id="0HeMoX-j_anCmpWmwLnt-36" value="Передача документа расписания" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0HeMoX-j_anCmpWmwLnt-35" vertex="1">
           <mxGeometry y="26" width="290" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="0HeMoX-j_anCmpWmwLnt-33" value="Только принимает" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-30" vertex="1" collapsed="1">
-          <mxGeometry y="78" width="290" height="26" as="geometry">
-            <mxRectangle y="78" width="290" height="100" as="alternateBounds" />
+        <mxCell id="0HeMoX-j_anCmpWmwLnt-33" value="Только принимает" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0HeMoX-j_anCmpWmwLnt-30" vertex="1">
+          <mxGeometry y="226" width="290" height="100" as="geometry">
+            <mxRectangle y="78" width="290" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HeMoX-j_anCmpWmwLnt-34" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0HeMoX-j_anCmpWmwLnt-33" vertex="1">
@@ -500,6 +500,9 @@
         </mxCell>
         <mxCell id="kD1ETYicVpEtqTqWb3Om-91" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kD1ETYicVpEtqTqWb3Om-90">
           <mxGeometry y="26" width="319" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="kD1ETYicVpEtqTqWb3Om-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="0HeMoX-j_anCmpWmwLnt-35" target="0HeMoX-j_anCmpWmwLnt-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
