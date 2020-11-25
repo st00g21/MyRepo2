@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T06:19:29.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.2" etag="bFXKatBTBwbjTPP7h2lG" type="github"><diagram id="e_3plt_OUhQKRFtZPaQv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-25T14:59:15.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="SlMbw4zNp7H6y_qBYmra" version="13.10.2" type="github">
+  <diagram id="e_3plt_OUhQKRFtZPaQv" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bCC6qn_u7sQlEvx1Sy8D-1" value="Схема взаимодействия подразделений по работе с техническими обращениями&amp;nbsp;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="1080" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="bCC6qn_u7sQlEvx1Sy8D-2" value="Инициатор обращения" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bCC6qn_u7sQlEvx1Sy8D-1">
+          <mxGeometry y="20" width="1080" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="bCC6qn_u7sQlEvx1Sy8D-3" value="УОБПиПИС" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bCC6qn_u7sQlEvx1Sy8D-1">
+          <mxGeometry y="320" width="1080" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="bCC6qn_u7sQlEvx1Sy8D-4" value="ТЕХ. ПОДДЕРЖКА" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bCC6qn_u7sQlEvx1Sy8D-1">
+          <mxGeometry y="650" width="1080" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
