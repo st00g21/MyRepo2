@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T09:04:13.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="shZylzMnEcdeduLe9ij8" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T14:14:14.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="nvWBcBbgrjRpcAG9-BLy" version="14.0.1" type="github">
   <diagram id="9D4_06RuPHcv2f0q0tR7" name="Page-1">
     <mxGraphModel dx="1673" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-4" value="Физ. лица создаются из системы1С: БИТ ОБщежитие" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="30" width="620" height="30" as="geometry" />
+          <mxGeometry x="850" y="30" width="610" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwM-vzNzOkf9QKxyUFN-5" target="odwM-vzNzOkf9QKxyUFN-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-7" value="В 1С: Университет с помощью обработки формируются документы &quot;Заявления на проживание&quot; (Структура университета - Заселения и выселения)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="300" width="270" height="60" as="geometry" />
+          <mxGeometry x="40" y="290" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwM-vzNzOkf9QKxyUFN-9" target="odwM-vzNzOkf9QKxyUFN-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
         <mxCell id="odwM-vzNzOkf9QKxyUFN-16" value="Формируется Приказ имеющий технический характер(для передачи документа Планируемый заезд в 1С: БИТ Общежитие)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="520" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="odwM-vzNzOkf9QKxyUFN-18" value="Формируется документ &quot;Планируемый заезд&quot; в 1С: БИТ Общежитие и с ним из 1С: Университет подтягиваются данные Физических лиц" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="odwM-vzNzOkf9QKxyUFN-18" value="Из 1С: Университет подтягиваются данные Физических лиц в 1С: БИТ Общежитие и формируется документ &quot;Планируемый заезд&quot; в 1С: БИТ Общежитие&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="590" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mHR8y-EgAQS2zYv0bIhq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="odwM-vzNzOkf9QKxyUFN-22" target="mHR8y-EgAQS2zYv0bIhq-6">
@@ -75,7 +75,7 @@
           <mxGeometry x="450" y="200" width="240" height="85" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-23" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span&gt;Управление по работе с иностранными студентами&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; text-align: justify&quot;&gt;Донец Роксана Владимировна&lt;/span&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=20;position=0.08;position2=0.08;" parent="1" vertex="1">
-          <mxGeometry x="585" y="135" width="205" height="65" as="geometry" />
+          <mxGeometry x="590" y="145" width="205" height="65" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="odwM-vzNzOkf9QKxyUFN-22" target="odwM-vzNzOkf9QKxyUFN-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
