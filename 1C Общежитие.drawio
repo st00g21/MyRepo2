@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T09:04:03.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="k_dTR1Pdu__2fDGjrDb-" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T09:04:13.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="shZylzMnEcdeduLe9ij8" version="14.0.1" type="github">
   <diagram id="9D4_06RuPHcv2f0q0tR7" name="Page-1">
     <mxGraphModel dx="1673" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
           <mxGeometry x="40" y="30" width="650" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHR8y-EgAQS2zYv0bIhq-6" value="Автоматически создается Физ. лицо в 1С: БИТ Общежитие" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="310" width="240" height="60" as="geometry" />
+          <mxGeometry x="450" y="310" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mHR8y-EgAQS2zYv0bIhq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHR8y-EgAQS2zYv0bIhq-8" target="odwM-vzNzOkf9QKxyUFN-26">
           <mxGeometry relative="1" as="geometry" />
