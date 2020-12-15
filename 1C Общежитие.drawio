@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T09:00:59.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="K42lM7EYwUCeDpshEfAh" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T09:04:03.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="k_dTR1Pdu__2fDGjrDb-" version="14.0.1" type="github">
   <diagram id="9D4_06RuPHcv2f0q0tR7" name="Page-1">
-    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="80" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Схема появления проживающих студентов в 1С: БИТ ОБЩЕЖИТИЕ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" width="830" height="20" as="geometry" />
+          <mxGeometry x="339" width="830" height="20" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwM-vzNzOkf9QKxyUFN-3" target="odwM-vzNzOkf9QKxyUFN-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -22,21 +22,21 @@
         <mxCell id="odwM-vzNzOkf9QKxyUFN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="odwM-vzNzOkf9QKxyUFN-4" target="mHR8y-EgAQS2zYv0bIhq-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1045" y="80" />
-              <mxPoint x="1045" y="80" />
+              <mxPoint x="1355" y="80" />
+              <mxPoint x="1355" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHR8y-EgAQS2zYv0bIhq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwM-vzNzOkf9QKxyUFN-4" target="mHR8y-EgAQS2zYv0bIhq-10">
+        <mxCell id="mHR8y-EgAQS2zYv0bIhq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="odwM-vzNzOkf9QKxyUFN-4" target="mHR8y-EgAQS2zYv0bIhq-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="880" y="140" />
-              <mxPoint x="880" y="140" />
+              <mxPoint x="955" y="80" />
+              <mxPoint x="955" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-4" value="Физ. лица создаются из системы1С: БИТ ОБщежитие" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="30" width="350" height="30" as="geometry" />
+          <mxGeometry x="850" y="30" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwM-vzNzOkf9QKxyUFN-5" target="odwM-vzNzOkf9QKxyUFN-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,10 +84,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-26" value="Общежитие - Проживающие- Создать: Вводится серия и номер паспорта" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="135" width="210" height="40" as="geometry" />
+          <mxGeometry x="1250" y="147.5" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-27" value="Вызывается обработка (пмк) Получить данные университет" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="190" width="210" height="40" as="geometry" />
+          <mxGeometry x="1250" y="210" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="odwM-vzNzOkf9QKxyUFN-30" target="odwM-vzNzOkf9QKxyUFN-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,10 +121,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHR8y-EgAQS2zYv0bIhq-8" value="Проживающий является студентом ВУЗа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="90" width="210" height="30" as="geometry" />
+          <mxGeometry x="1250" y="100" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHR8y-EgAQS2zYv0bIhq-10" value="Проживающий является сотрудником ВУЗа/ Сторонний проживающий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="250" width="190" height="40" as="geometry" />
+          <mxGeometry x="850" y="100" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mHR8y-EgAQS2zYv0bIhq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHR8y-EgAQS2zYv0bIhq-14" target="mHR8y-EgAQS2zYv0bIhq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHR8y-EgAQS2zYv0bIhq-14" value="Общежитие - Проживающие- Создать: Вводится серия и номер паспорта" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="180" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mHR8y-EgAQS2zYv0bIhq-16" value="Заполнить все данные и сохранить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="245" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
