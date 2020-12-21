@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T12:41:00.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="kzfNmvSuVJAHmghejCKz" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T14:59:17.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="m8hMdCqPsgoV6zwoZUC3" version="14.0.5" type="github">
   <diagram id="9D4_06RuPHcv2f0q0tR7" name="Page-1">
-    <mxGraphModel dx="4063" dy="3275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="-30" width="1520" height="760" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwM-vzNzOkf9QKxyUFN-1" target="odwM-vzNzOkf9QKxyUFN-5" edge="1">
@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="odwM-vzNzOkf9QKxyUFN-4" value="Физ. лица создаются из системы1С: БИТ ОБщежитие" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="odwM-vzNzOkf9QKxyUFN-4" value="Физ. лица создаются из системы1С: БИТ Общежитие" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="910" y="60" width="610" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwM-vzNzOkf9QKxyUFN-5" target="odwM-vzNzOkf9QKxyUFN-7" edge="1">
@@ -65,7 +65,7 @@
         <mxCell id="odwM-vzNzOkf9QKxyUFN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwM-vzNzOkf9QKxyUFN-16" target="odwM-vzNzOkf9QKxyUFN-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="odwM-vzNzOkf9QKxyUFN-16" target="Wk4Ll-oWT7c4vthlsqJc-2">
+        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="odwM-vzNzOkf9QKxyUFN-16" target="Wk4Ll-oWT7c4vthlsqJc-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-16" value="Формируется Приказ имеющий технический характер(для передачи документа Планируемый заезд в 1С: БИТ Общежитие)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
         <mxCell id="odwM-vzNzOkf9QKxyUFN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="odwM-vzNzOkf9QKxyUFN-22" target="odwM-vzNzOkf9QKxyUFN-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwM-vzNzOkf9QKxyUFN-26" target="odwM-vzNzOkf9QKxyUFN-27">
+        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwM-vzNzOkf9QKxyUFN-26" target="odwM-vzNzOkf9QKxyUFN-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="odwM-vzNzOkf9QKxyUFN-26" value="Общежитие - Проживающие- Создать" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -112,7 +112,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHR8y-EgAQS2zYv0bIhq-1" target="odwM-vzNzOkf9QKxyUFN-3">
+        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mHR8y-EgAQS2zYv0bIhq-1" target="odwM-vzNzOkf9QKxyUFN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="100" />
@@ -120,17 +120,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHR8y-EgAQS2zYv0bIhq-1" value="Физ. лица создаются из&amp;nbsp; системы 1с: Университет ПРОФ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mHR8y-EgAQS2zYv0bIhq-1" value="Физ. лица создаются из&amp;nbsp; системы 1с: Университет ПРОФ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="100" y="60" width="650" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHR8y-EgAQS2zYv0bIhq-6" value="Автоматически создается Физ. лицо в 1С: БИТ Общежитие" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="360" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHR8y-EgAQS2zYv0bIhq-8" target="odwM-vzNzOkf9QKxyUFN-26">
+        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mHR8y-EgAQS2zYv0bIhq-8" target="odwM-vzNzOkf9QKxyUFN-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHR8y-EgAQS2zYv0bIhq-8" value="Проживающий является студентом ВУЗа" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w9MjF7cV2MUayhE8YyS5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHR8y-EgAQS2zYv0bIhq-10" target="mHR8y-EgAQS2zYv0bIhq-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHR8y-EgAQS2zYv0bIhq-10" value="Проживающий является сотрудником ВУЗа/ Сторонний проживающий" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="130" width="210" height="60" as="geometry" />
@@ -153,7 +156,7 @@
         <mxCell id="EebpZE1JnKf9s2Dh5Rfp-11" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Обработка (пмк) Создание заявлений на проживание доступна в интерфейсе через &quot;Все Функции&quot;&lt;/span&gt;&#xa;&#xa;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="399" y="450" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-2" value="В 1С: БИТ Общежитие с помощью обработки (пмк) Получение данных приказов из 1С: Университет создаются&amp;nbsp; документы Планируемый заезд в разрезе общежитий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wk4Ll-oWT7c4vthlsqJc-2" value="В 1С: БИТ Общежитие с помощью обработки (пмк) Получение данных приказов из 1С: Университет создаются&amp;nbsp; документы Планируемый заезд в разрезе общежитий" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="630" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
